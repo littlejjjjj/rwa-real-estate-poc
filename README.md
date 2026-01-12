@@ -1,3 +1,13 @@
+Jovian Tan (littlejjjjj)
+Builder — Web3 • RWA • Futures • Automation • Fintech
+
+🔗 GitHub: https://github.com/littlejjjjj
+
+🔗 LinkedIn: https://www.linkedin.com/in/joviantan/
+
+📍 Based in Malaysia (Building globally)
+
+
 # Real Estate RWA Tokenization & Settlement Platform (PoC)
 
 A technical Proof-of-Concept demonstrating how real-world real estate assets can be tokenized into fractional ownership on-chain and settled through an escrow-based closing workflow.
