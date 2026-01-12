@@ -1,0 +1,28 @@
+{
+  "name": "rwa-real-estate-poc",
+  "version": "1.0.0",
+  "description": "An RWA Real Estate PoC is a technical pilot demonstrating how physical property is digitized into blockchain tokens to enable fractional ownership. By 2026, these frameworks are used to validate the legal and technical automation of rental yields and secondary market trading, bridging traditional property assets with global DeFi liquidity.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlejjjjj/rwa-real-estate-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlejjjjj/rwa-real-estate-poc/issues"
+  },
+  "homepage": "https://github.com/littlejjjjj/rwa-real-estate-poc#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^5.4.0",
+    "hardhat": "^2.28.3"
+  }
+}
